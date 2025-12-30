@@ -1,0 +1,21 @@
+
+git config --global user.name "Your name"
+git config --global user.email "your-email@example.com"
+
+
+git init 
+git remote add origin https://github.com/syrgakbekdzhaparkulov-cmyk/oop-62-2.git
+
+https://github.com/syrgakbekdzhaparkulov-cmyk/oop-62-2.git
+
+git  status 
+git add . 
+git push origin master 
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/syrgakbekdzhaparkulov-cmyk/oop-62-2.git
+git push -u origin main
